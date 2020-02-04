@@ -15,13 +15,13 @@ remote_theme: open-sdg/open-sdg@master
 # Replace this title as needed.
 title: Indicators For The Sustainable Development Goals
 # Replace the baseurl with the name of this repository.
-baseurl: "/SDG"
+baseurl: "/SDGTest"
 url: ""
 data_dir: data
 environment: staging
 # Replace "open-sdg" with the name of your GitHub organization, and
 # "open-sdg-data-starter" with the name of your data repository.
-remote_data_prefix: "https://NSOMalta.github.io/SDG-Data"
+remote_data_prefix: "https://NSOMalta.github.io/SDGTest-Data"
 
 # Automatically create indicator pages, goal pages,
 # and some other required pages.
@@ -35,7 +35,7 @@ analytics:
   ga_prod: ''
 
 # Social media accounts.
-twitter: 'MyTwitterAccount'
+twitter: 'NSOMalta'
 
 # Sticky share buttons (facebook, twitter and email)
 #sharethis_property: '5d279253faeee40012f195e1'
@@ -48,7 +48,7 @@ email_contacts:
 
 # Github Repo for Data
 # Replace this value as needed.
-repo_name: SDG-Data
+repo_name: SDGTest-Data
 branch: develop
 # Replace this value as needed.
 org_name: NSOMalta
